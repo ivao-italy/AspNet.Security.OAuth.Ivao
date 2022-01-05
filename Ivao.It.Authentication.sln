@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ivao.It.Authentication", "src\Ivao.It.Authentication\Ivao.It.Authentication.csproj", "{AD976C27-8873-4F4F-BDE9-69F6B920552A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNet.Security.OAuth.Ivao", "src\AspNet.Security.OAuth.Ivao\AspNet.Security.OAuth.Ivao.csproj", "{332156D0-1CA4-4235-BD0B-899F65D3CD26}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DD52DDFD-8E66-48D6-AF7F-6825E67B0F2C}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD976C27-8873-4F4F-BDE9-69F6B920552A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD976C27-8873-4F4F-BDE9-69F6B920552A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD976C27-8873-4F4F-BDE9-69F6B920552A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD976C27-8873-4F4F-BDE9-69F6B920552A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{332156D0-1CA4-4235-BD0B-899F65D3CD26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{332156D0-1CA4-4235-BD0B-899F65D3CD26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{332156D0-1CA4-4235-BD0B-899F65D3CD26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{332156D0-1CA4-4235-BD0B-899F65D3CD26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAA7BF00-4063-4715-B212-D0E7B1C32832}
+	EndGlobalSection
+EndGlobal
