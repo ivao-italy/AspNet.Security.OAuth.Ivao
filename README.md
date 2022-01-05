@@ -1,5 +1,4 @@
 # AspNet.Security.OAuth.Ivao
-# IVAO IT Discord Automation
 Project made with ❤️ by IVAO Italy division.
 
 ![Discord](https://img.shields.io/discord/426318927220441089)
